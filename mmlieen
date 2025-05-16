@@ -1,2 +1,1 @@
-//subscription-userinfo: upload=0; download=0; total=1073741824000000; expire=2551027531
-warp://p1@[2606:4700:d0::77bf:9891:3794:4940]:1010?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#m4&&detour=warp://p2@162.159.192.32:903#mmrez
+subscription-userinfo: upload=0; download=0; total=214748364800; expire=1750006400 warp://p1@[2606:4700:d0::77bf:9891:3794:4940]:1010?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#m4&&detour=warp://p2@162.159.192.32:903#mmrez
